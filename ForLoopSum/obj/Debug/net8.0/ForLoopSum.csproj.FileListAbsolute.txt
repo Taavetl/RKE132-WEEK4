@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\bin\Debug\net8.0\ForLoopSum.exe
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\bin\Debug\net8.0\ForLoopSum.deps.json
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\bin\Debug\net8.0\ForLoopSum.runtimeconfig.json
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\bin\Debug\net8.0\ForLoopSum.dll
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\bin\Debug\net8.0\ForLoopSum.pdb
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.dll
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\refint\ForLoopSum.dll
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.pdb
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ForLoopSum.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\week4loops\ForLoopSum\obj\Debug\net8.0\ref\ForLoopSum.dll

@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\week4loops\whileloops\bin\Debug\net8.0\whileloops.exe
+C:\Users\Taavet\source\repos\week4loops\whileloops\bin\Debug\net8.0\whileloops.deps.json
+C:\Users\Taavet\source\repos\week4loops\whileloops\bin\Debug\net8.0\whileloops.runtimeconfig.json
+C:\Users\Taavet\source\repos\week4loops\whileloops\bin\Debug\net8.0\whileloops.dll
+C:\Users\Taavet\source\repos\week4loops\whileloops\bin\Debug\net8.0\whileloops.pdb
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.dll
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\refint\whileloops.dll
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.pdb
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\whileloops.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\week4loops\whileloops\obj\Debug\net8.0\ref\whileloops.dll
